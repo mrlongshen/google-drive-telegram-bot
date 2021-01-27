@@ -30,7 +30,7 @@ apt install -y git python3 ffmpeg
 ```
 - Clone this git repository.
 ```sh 
-git clone https://github.com/viperadnan-git/google-drive-telegram-bot
+git clone https://github.com/mrlongshen/google-drive-telegram-bot.git
 ```
 - Change Directory
 ```sh 
